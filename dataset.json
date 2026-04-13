@@ -1,0 +1,22 @@
+{
+  "base_price": 1495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for St. Louis Metro Area, MO-IL, US",
+  "export_job_id": "4effa1b1-e418-4cc8-a730-4104f83d5436",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 585032,
+  "location_name": "St. Louis, MO-IL",
+  "location_type": "metro",
+  "repo_name": "the-hhi-monopoly-index-for-st-louis-metro-area-mo-il-us-sample-585032",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/585032/beamstation_585032_restaurants-us-stlouismoil_SAMPLE_DIST.csv",
+  "sample_pct": 9.76,
+  "sample_records": 20,
+  "sample_sha256": "b198b7f0daec9639c54416574c0ad5aca8b4e258ecde5f5409fce3355224a60c",
+  "sample_size_bytes": 92824,
+  "total_records": 205,
+  "updated_at": "2026-04-07T18:35:35.552859+00:00"
+}
