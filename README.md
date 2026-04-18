@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for St. Louis Metro Area, MO-IL, US
 
-> Free BeamStation sample export with 20 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `585032` |
 | Location | St. Louis, MO-IL |
 | Category | Restaurants |
-| Full dataset size | 205 records |
-| Free sample size | 20 records (9.76%) |
-| Last export | 2026-04-07T18:35:35.552859+00:00 |
+| Full dataset size | 177 records |
+| Free sample size | 17 records (9.6%) |
+| Last export | 2026-04-14T23:51:41.776371+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-st-louis-metro-area-mo-il-us-sample-585032/releases/download/sample-latest/beamstation_585032_restaurants-us-stlouismoil_SAMPLE_DIST.csv) |
 
 ## What is in this sample
