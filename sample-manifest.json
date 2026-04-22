@@ -1,12 +1,12 @@
 {
-  "export_job_id": "dfcf81c9-44fe-47c7-9f93-c57240a93c5b",
+  "export_job_id": "69bff472-560f-40ed-9960-74f0aae8bdb2",
   "id_short": 585032,
-  "published_at": "2026-04-18T19:26:49Z",
+  "published_at": "2026-04-22T07:41:57Z",
   "repo_name": "the-hhi-monopoly-index-for-st-louis-metro-area-mo-il-us-sample-585032",
   "sample_asset_name": "beamstation_585032_restaurants-us-stlouismoil_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/585032/beamstation_585032_restaurants-us-stlouismoil_SAMPLE_DIST.csv",
-  "sample_records": 17,
-  "sample_sha256": "6a5593cb80e401ba3a74b9add024703df0f20794d37538e6144e5033253217e1",
-  "sample_size_bytes": 82521,
-  "total_records": 177
+  "sample_records": 19,
+  "sample_sha256": "b012a2a7986702fa220ff420b4b16b7dd789c3be4157786908c85a5cd4e4f8bc",
+  "sample_size_bytes": 89786,
+  "total_records": 191
 }
